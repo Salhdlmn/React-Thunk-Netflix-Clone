@@ -21,3 +21,4 @@
 - - Bu bileşene listelenecek kategorinin ismini ve id'sini gönder
 - - Gelen id'ye göre film verisini çek ve ekrana bas
 # React-Thunk-Netflix-Clone
+![](React-Thunk-Netflix.gif)
