@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: #242424;
+  color: #ffffff;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.movie {
+  max-width: 300px;
+  transition: all 0.3;
+}
+
+.movie:hover {
+  scale: 1.03;
+}
